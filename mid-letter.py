@@ -1,4 +1,6 @@
 import math
+
+
 def mid(string):
     str_len = len(string)
     if str_len % 2 == 0:
